@@ -22,7 +22,7 @@ class Employee
 	System.out.println("Employee Salary: "+this.salary);
     }
 public static void main(String args[])
-{
+ {
 	Scanner s=new Scanner(System.in);
 	Employee[] a1=new Employee[5];
 	System.out.println("Enter the total number of Emp: ");
