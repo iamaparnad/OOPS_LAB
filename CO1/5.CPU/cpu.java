@@ -26,7 +26,7 @@ public class cpu{
 			System.out.println("Manufactor ="+manuf+"\n");
 		}
 	}
-	public static void main(String [] args){
+public static void main(String [] args){
 		cpu.ram obj1=new cpu.ram(8,"Intel");
 		cpu obj2=new cpu();
 		cpu.processor obj3=obj2.new processor(8,"Samsumg");
