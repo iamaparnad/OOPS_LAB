@@ -1,5 +1,6 @@
 import java.util.Scanner;
-class StringManp{
+class StringManp
+{
     public static void main(String [] args){
         System.out.println("Enter the String: ");
         Scanner s=new Scanner(System.in);
