@@ -28,7 +28,6 @@ class product1
             System.out.println("\nProduct 3 is of the lowest price!");
         }
      }
-
 public static void main(String[] args)
   {
     product1 obj1 = new product1();
