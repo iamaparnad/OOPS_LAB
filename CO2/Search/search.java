@@ -22,9 +22,11 @@ class search{
                 state=true;
             }
         }
-        if(state){
+        if(state)
+        {
             System.out.println("Element found at position ="+x);
-        }else{
+        }else
+        {
             System.out.println("Element not found");
         }
     }
